@@ -1,20 +1,41 @@
 import 'package:flutter/material.dart';
 
+//fffffffffffff
 void main() {
+  //ghazalhazaori
   runApp(const MyApp());
 }
 
+//ffffffffff
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
 //adham
   // This widget is the root of your application.
   @override
+<<<<<<< HEAD
 //adham
 //adham
 //adham
 //adhammm//
 //adham
 //adham
+=======
+<<<<<<< HEAD
+
+  //mousa
+//ayaa hello //? fadi
+=======
+  //--! Hello Almhyar
+
+  // yazan
+  // yazan
+
+  //mousa
+//ayaa hello
+>>>>>>> main
+  //aya
+
+>>>>>>> main
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Flutter Demo new',
@@ -28,13 +49,14 @@ class MyApp extends StatelessWidget {
         // or simply save your changes to "hot reload" in a Flutter IDE).
         // Notice that the counter didn't reset back to zero; the application
         // is not restarted.
-        primarySwatch: Colors.blue,
+        primarySwatch: Colors.red,
       ),
       home: const MyHomePage(title: 'Flutter Demo Home Page'),
     );
   }
 }
 
+//ssssss
 class MyHomePage extends StatefulWidget {
   const MyHomePage({super.key, required this.title});
 
@@ -117,6 +139,12 @@ class _MyHomePageState extends State<MyHomePage> {
         child: const Icon(Icons.add),
       ), // This trailing comma makes auto-formatting nicer for build methods.
     );
+<<<<<<< HEAD
   } //adham
 } //adham
 //adham
+=======
+  }
+}
+//? Hello its Fadi
+>>>>>>> main
