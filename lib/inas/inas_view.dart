@@ -1,14 +1,14 @@
 import 'package:flutter/src/widgets/framework.dart';
 import 'package:flutter/src/widgets/placeholder.dart';
 
-class InaasView extends StatefulWidget {
-  const InaasView({super.key});
+class InassSaabView extends StatefulWidget {
+  const InassSaabView({super.key});
 
   @override
-  State<InaasView> createState() => _InaasViewState();
+  State<InassSaabView> createState() => _InassSaabViewState();
 }
 
-class _InaasViewState extends State<InaasView> {
+class _InassSaabViewState extends State<InassSaabView> {
   @override
   Widget build(BuildContext context) {
     return const Placeholder();

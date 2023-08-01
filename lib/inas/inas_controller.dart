@@ -1,1 +1,1 @@
-class InasController {}
+class InasSaabController {}
