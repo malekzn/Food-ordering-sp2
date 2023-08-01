@@ -6,13 +6,15 @@ void main() {
 
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
-
+//adham
   // This widget is the root of your application.
   @override
-
-
-
-
+//adham
+//adham
+//adham
+//adhammm//
+//adham
+//adham
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Flutter Demo new',
@@ -115,5 +117,6 @@ class _MyHomePageState extends State<MyHomePage> {
         child: const Icon(Icons.add),
       ), // This trailing comma makes auto-formatting nicer for build methods.
     );
-  }
-}
+  } //adham
+} //adham
+//adham
