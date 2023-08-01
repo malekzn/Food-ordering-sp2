@@ -1,29 +1,25 @@
 import 'package:flutter/material.dart';
+
 //fffffffffffff
 void main() {
   //ghazalhazaori
   runApp(const MyApp());
 }
+
 //ffffffffff
- class MyApp extends StatelessWidget {
+class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
   // This widget is the root of your application.
   @override
-<<<<<<< HEAD
-=======
 
-    // yazan
-    // yazan
-
-
+  // yazan
+  // yazan
 
   //mousa
 //ayaa hello
   //aya
 
-
->>>>>>> main
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Flutter Demo new',
@@ -43,6 +39,7 @@ void main() {
     );
   }
 }
+
 //ssssss
 class MyHomePage extends StatefulWidget {
   const MyHomePage({super.key, required this.title});
