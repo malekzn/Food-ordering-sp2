@@ -12,6 +12,11 @@ class MyApp extends StatelessWidget {
 
   // This widget is the root of your application.
   @override
+<<<<<<< HEAD
+
+  //mousa
+//ayaa hello //? fadi
+=======
   //--! Hello Almhyar
 
   // yazan
@@ -19,6 +24,7 @@ class MyApp extends StatelessWidget {
 
   //mousa
 //ayaa hello
+>>>>>>> main
   //aya
 
   Widget build(BuildContext context) {
