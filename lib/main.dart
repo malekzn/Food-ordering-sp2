@@ -10,6 +10,15 @@ class MyApp extends StatelessWidget {
 
   // This widget is the root of your application.
   @override
+<<<<<<< HEAD
+=======
+
+  //mousa
+//ayaa hello
+  //aya
+
+
+>>>>>>> main
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Flutter Demo new',
@@ -114,3 +123,4 @@ class _MyHomePageState extends State<MyHomePage> {
     );
   }
 }
+//? Hello its Fadi
