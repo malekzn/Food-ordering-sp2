@@ -1,10 +1,10 @@
 import 'package:flutter/material.dart';
-
+//fffffffffffff
 void main() {
   runApp(const MyApp());
 }
-
-class MyApp extends StatelessWidget {
+//ffffffffff
+ class MyApp extends StatelessWidget {
   const MyApp({super.key});
 
   // This widget is the root of your application.
@@ -28,13 +28,13 @@ class MyApp extends StatelessWidget {
         // or simply save your changes to "hot reload" in a Flutter IDE).
         // Notice that the counter didn't reset back to zero; the application
         // is not restarted.
-        primarySwatch: Colors.blue,
+        primarySwatch: Colors.red,
       ),
       home: const MyHomePage(title: 'Flutter Demo Home Page'),
     );
   }
 }
-
+//ssssss
 class MyHomePage extends StatefulWidget {
   const MyHomePage({super.key, required this.title});
 
