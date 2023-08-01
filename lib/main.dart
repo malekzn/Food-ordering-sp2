@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 //fffffffffffff
 void main() {
+  //ghazalhazaori
   runApp(const MyApp());
 }
 //ffffffffff
@@ -9,12 +10,15 @@ void main() {
 
   // This widget is the root of your application.
   @override
+<<<<<<< HEAD
+=======
 
   //mousa
 //ayaa hello
   //aya
 
 
+>>>>>>> main
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Flutter Demo new',
